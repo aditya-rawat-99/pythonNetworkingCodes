@@ -9,4 +9,4 @@ Just plain old CTRL-C on each link you want to send to your friend/colleague. Th
 shelve file and when you are done, just press CTRL-C and enter your email and password and email of the recipient.
 
 Thats it! 
-Nothing to tricky.
+Nothing too tricky.

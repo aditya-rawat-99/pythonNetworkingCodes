@@ -1,7 +1,7 @@
 # pythonNetworkingCodes
 Networking stuff with python
 
-Suppose you have several links of important web pages that you have to send to someone.
+Suppose you have several links of important web pages that you have to send to someone and you are too lazy to open your favorite browser and go all the way through typing email of the recipient and pasting the links of each webpage.
 Instead of copying each link and sending it to your friend or colleague, you can run this script and just copy each link.
 
 Thats it, there is no need to save each link, no pressing of special keys or clicking mouse each time to save the link.

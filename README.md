@@ -5,7 +5,7 @@ Instead of copying each link and sending it to your friend or colleague, you can
 
 Thats it, there is no need to save each link, no pressing of special keys or clicking mouse each time to save the link.
 Just plain old CTRL-C on each link you want to send to your friend/colleague. The links will be saved automatically in a seperate 
-shelve file and when you are done. just press CTRL-C and enter yoyr email and password and email of the recipient.
+shelve file and when you are done, just press CTRL-C and enter your email and password and email of the recipient.
 
 Thats it! 
 Nothing to tricky.
